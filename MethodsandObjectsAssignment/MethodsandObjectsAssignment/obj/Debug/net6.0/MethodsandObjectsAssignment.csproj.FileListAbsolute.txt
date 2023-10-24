@@ -1,0 +1,14 @@
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\net6.0\MethodsandObjectsAssignment.exe
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\net6.0\MethodsandObjectsAssignment.deps.json
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\net6.0\MethodsandObjectsAssignment.runtimeconfig.json
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\net6.0\MethodsandObjectsAssignment.dll
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\bin\Debug\net6.0\MethodsandObjectsAssignment.pdb
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.AssemblyInfo.cs
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.dll
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\refint\MethodsandObjectsAssignment.dll
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.pdb
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\MethodsandObjectsAssignment.genruntimeconfig.cache
+C:\Users\Anne\source\repos\MethodsandObjectsAssignment\MethodsandObjectsAssignment\obj\Debug\net6.0\ref\MethodsandObjectsAssignment.dll
