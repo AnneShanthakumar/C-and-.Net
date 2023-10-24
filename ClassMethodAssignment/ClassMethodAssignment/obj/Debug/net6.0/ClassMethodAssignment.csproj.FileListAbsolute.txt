@@ -1,0 +1,14 @@
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\net6.0\ClassMethodAssignment.exe
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\net6.0\ClassMethodAssignment.deps.json
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\net6.0\ClassMethodAssignment.runtimeconfig.json
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\net6.0\ClassMethodAssignment.dll
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\bin\Debug\net6.0\ClassMethodAssignment.pdb
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.AssemblyInfoInputs.cache
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.AssemblyInfo.cs
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.dll
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\refint\ClassMethodAssignment.dll
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.pdb
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ClassMethodAssignment.genruntimeconfig.cache
+C:\Users\Anne\source\repos\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\net6.0\ref\ClassMethodAssignment.dll
