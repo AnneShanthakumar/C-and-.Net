@@ -1,0 +1,14 @@
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net6.0\ParsingEnumsAssignment.exe
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net6.0\ParsingEnumsAssignment.deps.json
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net6.0\ParsingEnumsAssignment.runtimeconfig.json
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net6.0\ParsingEnumsAssignment.dll
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\bin\Debug\net6.0\ParsingEnumsAssignment.pdb
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.AssemblyInfo.cs
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.dll
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\refint\ParsingEnumsAssignment.dll
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.pdb
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ParsingEnumsAssignment.genruntimeconfig.cache
+C:\Users\Anne\source\repos\ParsingEnumsAssignment\ParsingEnumsAssignment\obj\Debug\net6.0\ref\ParsingEnumsAssignment.dll
