@@ -1,4 +1,3 @@
 # C-and-.Net
 Student consol App
-
-Entity Framework 6 Code-First Demo Project
+I created a Student Data base Useing Entity Framework 6 Code-First consol Project
