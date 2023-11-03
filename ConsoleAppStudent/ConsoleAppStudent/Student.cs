@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppStudent
 {
-   
+    
 
-    public class Student
+public class Student
     {
         public int StudentId { get; set; }
         public string FirstName { get; set; }
@@ -16,3 +16,4 @@ namespace ConsoleAppStudent
     }
 
 }
+
